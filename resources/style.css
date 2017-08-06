@@ -23,8 +23,8 @@ h3 {
   color: dimgray;
 }
 .design h3 {
-  color: white;
   background: url("./images/the-flatiron-building.png");
+  color: white;
 }
 p {
   font-family: Helvetica;
